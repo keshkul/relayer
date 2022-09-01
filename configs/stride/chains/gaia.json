@@ -3,7 +3,7 @@
   "value": {
     "key": "mozan",                      
     "chain-id": "GAIA",
-    "rpc-addr": "35.224.35.93:23657", 
+    "rpc-addr": "http://35.224.35.93:23657", 
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
